@@ -14,4 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-https://dev.azure.com/kamilkorczak/LAB%204/_apis/build/status/korczakk.calculator?branchName=master
+[![Build Status](https://dev.azure.com/kamilkorczak/LAB%204/_apis/build/status/korczakk.calculator?branchName=master)](https://dev.azure.com/kamilkorczak/LAB%204/_build/latest?definitionId=14&branchName=master)
